@@ -1,6 +1,6 @@
 {
-  "version": "v6.51.52",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/alrkhs/revanc/releases/download/2/music-revanced-magisk-v6.51.52-arm64-v8a.zip",
+  "version": "v7.01.52",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/alrkhs/revanc/releases/download/3/music-revanced-magisk-v7.01.52-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/alrkhs/revanc/update/build.md"
 }
